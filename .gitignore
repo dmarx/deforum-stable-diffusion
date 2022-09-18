@@ -8,3 +8,5 @@ outputs
 
 # Log files for colab-convert
 cc-outputs.log
+
+Pipfile.lock
