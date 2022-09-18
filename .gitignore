@@ -12,3 +12,4 @@ cc-outputs.log
 Pipfile.lock
 *settings.txt
 models/
+*.png
