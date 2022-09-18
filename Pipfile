@@ -16,6 +16,7 @@ torch = {version="*", index="pytorch"}
 torchvision = {version="*", index="pytorch"}
 numpy = {version="*"}
 pandas = {version="*"}
+loguru = "*"
 
 [requires]
 python_version = "3.9"
