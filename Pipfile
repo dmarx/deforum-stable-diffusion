@@ -17,6 +17,8 @@ torchvision = {version="*", index="pytorch"}
 numpy = {version="*"}
 pandas = {version="*"}
 loguru = "*"
+opencv-python = "*"
+scikit-image = {extras = ["optional"], version = "*"}
 
 [requires]
 python_version = "3.9"
