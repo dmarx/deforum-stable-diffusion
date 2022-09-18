@@ -15,6 +15,7 @@ ipykernel = "*"
 torch = {version="*", index="pytorch"}
 torchvision = {version="*", index="pytorch"}
 numpy = {version="*"}
+pandas = {version="*"}
 
 [requires]
 python_version = "3.9"
