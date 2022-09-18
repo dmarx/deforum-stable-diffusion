@@ -19,6 +19,7 @@ pandas = {version="*"}
 loguru = "*"
 opencv-python = "*"
 scikit-image = {extras = ["optional"], version = "*"}
+pyttitools-taming-transformers = {git = "https://github.com/pytti-tools/taming-transformers"}
 
 [requires]
 python_version = "3.9"
